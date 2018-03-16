@@ -10,7 +10,8 @@ Tic Tac Toe played through your terminal against your computer. Get 3 in a row v
 
 Choose "X" or "O" for your piece. Select the numbers 0 through 8 to represent your selection on the board.
 
-```   0 | 1 | 2
+```  
+      0 | 1 | 2
      -----------
       3 | 4 | 5
      -----------
