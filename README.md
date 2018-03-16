@@ -15,6 +15,7 @@ Choose "X" or "O" for your piece. Select the numbers 0 through 8 to represent yo
      -----------
       3 | 4 | 5
      -----------
-      6 | 7 | 8   ```
+      6 | 7 | 8   
+```
 
 After the game is finished, select "yes" or "no" to start a new game or exit the game. 
